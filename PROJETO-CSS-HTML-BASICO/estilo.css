@@ -1,50 +1,36 @@
-
 body {
-    background: #d2d2c1 url('img/fundo.png');
-    font: 16px Arial, Helvetica, sans-serif;
+  background: #d2d2c1 url("img/fundo.png");
+  font: 16px Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    color: #a7a794;
+  color: #a7a794;
 }
 
-header {
-    text-align: center;
-}
 #principal {
-    width: 900px;
+  width: 900px;
 }
 
 #menu {
-    background: #c5c5b2;
-    padding: 18px;
+  background: #c5c5b2;
+  padding: 18px;
 }
 
 #conteudo {
-    background: #e8e8d9;
-    padding: 5px;
-
+  background: #e8e8d9;
+  padding: 5px;
 }
 
 .centralizar {
-    text-align: center;
+  text-align: center;
 }
-.foto1 {
-    border-style: groove;
-    border-color: #c5c5b2;
-}
-.foto2 {
-    border-style: groove;
-    border-color: #c5c5b2;
-}
-.foto3 {
-    border-style: groove;
-    border-color: #c5c5b2;
+.fotos {
+  border: 10px solid #c3c3ae;
 }
 
 a {
-    color: #4b566a;
-    text-decoration: none;
-    font-weight: bold;
-    padding: 5px;
+  color: #4b566a;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px;
 }
