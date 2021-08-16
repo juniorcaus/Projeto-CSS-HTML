@@ -4,6 +4,13 @@ body {
     font: 16px Arial, Helvetica, sans-serif;
 }
 
+h1 {
+    color: #a7a794;
+}
+
+header {
+    text-align: center;
+}
 #principal {
     width: 900px;
 }
@@ -22,6 +29,19 @@ body {
 .centralizar {
     text-align: center;
 }
+.foto1 {
+    border-style: groove;
+    border-color: #c5c5b2;
+}
+.foto2 {
+    border-style: groove;
+    border-color: #c5c5b2;
+}
+.foto3 {
+    border-style: groove;
+    border-color: #c5c5b2;
+}
+
 a {
     color: #4b566a;
     text-decoration: none;
